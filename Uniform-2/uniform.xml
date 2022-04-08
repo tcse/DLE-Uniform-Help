@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dleplugin>
+	<name>uniform</name>
+	<description>DLE-UniForm - Универсальные формы обратной связи для DataLife Engine</description>
+	<icon></icon>
+	<version>2.0.1</version>
+	<dleversion>13</dleversion>
+	<versioncompare>greater</versioncompare>
+	<upgradeurl>https://updates.pafnuty.name/check-uniform.php</upgradeurl>
+	<filedelete>0</filedelete>
+	<needplugin></needplugin>
+	<mnotice>1</mnotice>
+	<mysqlinstall><![CDATA[]]></mysqlinstall>
+	<mysqlupgrade><![CDATA[]]></mysqlupgrade>
+	<mysqlenable><![CDATA[]]></mysqlenable>
+	<mysqldisable><![CDATA[]]></mysqldisable>
+	<mysqldelete><![CDATA[]]></mysqldelete>
+	<phpinstall><![CDATA[]]></phpinstall>
+	<phpupgrade><![CDATA[]]></phpupgrade>
+	<phpenable><![CDATA[]]></phpenable>
+	<phpdisable><![CDATA[]]></phpdisable>
+	<phpdelete><![CDATA[]]></phpdelete>
+	<notice><![CDATA[<a href="https://github.com/dle-modules/DLE-UniForm/releases/latest" target="_blank">Release notes</a><br> Установка описана по  <a href="https://github.com/dle-modules/DLE-UniForm#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" target="_blank">ссылке</a>  ]]></notice>
+</dleplugin>
